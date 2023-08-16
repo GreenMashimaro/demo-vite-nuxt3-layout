@@ -6,6 +6,6 @@
 
 <script setup lang="ts">
 definePageMeta({
-  layout: "vip",
+  layout: "vip-layout",
 });
 </script>
